@@ -22,6 +22,5 @@ The hardest part of this project was starting. It took me too long to come up wi
 
 I encourage you to check it out!
 
-[ssdiaz/curly_product_check](https://github.com/ssdiaz/curly_product_check)
-
+https://github.com/ssdiaz/curly_product_check
 
