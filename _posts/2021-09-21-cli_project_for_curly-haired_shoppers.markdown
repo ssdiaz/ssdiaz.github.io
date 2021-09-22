@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Project for Curly-Haired Shoppers"
-date:       2021-09-22 03:21:40 +0000
+date:       2021-09-21 23:21:40 -0400
 permalink:  cli_project_for_curly-haired_shoppers
 ---
 
@@ -22,6 +22,6 @@ The hardest part of this project was starting. It took me too long to come up wi
 
 I encourage you to check it out!
 
-[ssdiaz/curly_product_check](https://github.com/ssdiaz/curlyproductcheck)
+[ssdiaz/curly_product_check](https://github.com/ssdiaz/curly_product_check)
 
 
