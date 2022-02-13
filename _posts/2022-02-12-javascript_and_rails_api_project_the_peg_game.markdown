@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript & Rails API Project – The Peg Game"
-date:       2022-02-13 01:19:06 +0000
+date:       2022-02-12 20:19:06 -0500
 permalink:  javascript_and_rails_api_project_the_peg_game
 ---
 
@@ -164,6 +164,6 @@ function fetchPlayer() {
 ## Conclusion
 This project was really fun to build – and play with after. It was helpful keeping my frontend and backend repos separate because I can change each independent of the other. One thing to note is that Objects in JavaScript are different than the Objects in Ruby. For the most part, my objects created in JavaScript were just “temporary” but necessary in order to grab specific items based on user clicks. They, in a way, only become “official” when posted to the database in the backend Rails API system. 
 
-Want to win the game every time? ![Check this out.](http://www.wikihow.com/Win-the-Peg-Gamehttp://)
+Want to win the game every time? ![Check this out.](http://www.wikihow.com/Win-the-Peg-Game)
 
 
