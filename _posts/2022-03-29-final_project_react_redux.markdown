@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Final Project – React/Redux "
-date:       2022-03-29 04:17:06 +0000
+date:       2022-03-29 00:17:07 -0400
 permalink:  final_project_react_redux
 ---
 
@@ -61,7 +61,7 @@ In this blog I will summarize the project set up. To build the frontend, I used 
 * While using Redux, it’s important to never mutate state – so use the spread operator or Object.assign() to create a copy of your state with the new/updated values.
 
 
-### Lastly, a Thank You [Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/)
+### Lastly, a Thank You to [Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/)
 * If you are in a time crunch to complete a project, Bootstrap is a great tool to help stylize your webpage. 
 * It works great with React – I enjoyed creating my Activities components to render as card components on the browser. 
 * Note – if you use Bootstrap for React and are styling directly inside the components instead of a CSS file, make sure you do not use any reserved words. 
