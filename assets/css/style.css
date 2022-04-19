@@ -455,6 +455,7 @@ section {
 .about .image {
   background: url("../img/me-zoo.jpeg") center center no-repeat;
   background-size: cover;
+  margin-top: -50%;
   min-height: 400px;
 }
 @media (max-width: 991px) {
