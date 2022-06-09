@@ -287,7 +287,8 @@ h1, h2, h3, h4, h5, h6 {
   /* background: url("../img/beach.jpeg") top center; */
   background: url("../img/big_pink_banner_blank.png") top center;
   background-size: cover;
-  padding: 0 15px;
+  /* padding: 0 15px; */
+  padding: 0 10px;
 }
 #hero h1 {
   margin: 0 0 10px 0;
