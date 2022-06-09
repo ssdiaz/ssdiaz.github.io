@@ -416,7 +416,8 @@ section {
 .about .content h3 {
   font-weight: 500;
   font-size: 34px;
-  color: #2c4964;
+  /* color: #2c4964; */
+  color: #143033;
 }
 .about .content p {
   margin-bottom: 0;
@@ -446,19 +447,22 @@ section {
   margin: 0 0 0 50px;
   font-family: "Playfair Display", serif;
   font-size: 14px;
-  color: #437099;
+  /* color: #437099; */
+  color: #3d5c52;
 }
 .about .content .count-box a {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #437099;
+  /* color: #437099; */
+  color: #3d5c52;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
 }
 .about .content .count-box a:hover {
-  color: #6b96be;
+  /* color: #6b96be; */
+  color: #75937d;
 }
 .about .image {
   background: url("../img/me-zoo.jpeg") center center no-repeat;
