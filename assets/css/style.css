@@ -78,7 +78,8 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #2c4964;
+  /* color: #2c4964; */
+  color: #143033;
   text-decoration: none;
 }
 #header .logo img {
@@ -116,7 +117,8 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #2c4964;
+  /* color: #2c4964; */
+  color: #143033;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -126,7 +128,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #d43076;
+  /* color: #d43076; */
+  color: #e54f72;
 }
 .navbar .dropdown ul {
   display: block;
@@ -154,7 +157,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #d43076;
+  /* color: #d43076; */
+  color: #e54f72;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -184,7 +188,8 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #2c4964;
+  /* color: #2c4964; */
+  color: #143033;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -236,7 +241,8 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #2c4964;
+  /* color: #2c4964; */
+  color: #143033;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #d43076;
