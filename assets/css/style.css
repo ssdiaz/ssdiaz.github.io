@@ -289,7 +289,8 @@ h1, h2, h3, h4, h5, h6 {
   height: 50vh;
   /* background: url("../img/beach.jpeg") top center; */
   background: url("../img/big_pink_banner_blank.png") top center;
-  background-size: cover;
+  /* background-size: cover; */
+  background-size: contain;
   /* padding: 0 15px; */
   padding: 0 10px;
 }
