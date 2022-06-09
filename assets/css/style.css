@@ -283,7 +283,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 75vh;
+  /* height: 75vh; */
+  height: 50vh;
   /* background: url("../img/beach.jpeg") top center; */
   background: url("../img/big_pink_banner_blank.png") top center;
   background-size: cover;
@@ -1015,7 +1016,8 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #fff;
+  /* background: #fff; */
+  background: #ca4561;
   padding: 24px 0;
   font-size: 14px;
   box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.12);
