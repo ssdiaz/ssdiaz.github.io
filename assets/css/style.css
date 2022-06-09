@@ -141,6 +141,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #3d5c52;
   white-space: nowrap;
   transition: 0.3s;
+  font-family: 'Questrial', sans-serif;
 }
 .navbar a i, .navbar a:focus i {
   font-size: 12px;
