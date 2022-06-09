@@ -318,7 +318,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .btn-get-started:hover {
   padding-top: 10px;
   /* color: #d43076; */
-  color: #75937d;
+  color: #041c31;
 }
 @media (min-width: 1024px) {
   #hero {
