@@ -533,7 +533,8 @@ section {
   line-height: 18px;
   font-size: 18px;
   font-weight: 600;
-  color: #2c4964;
+  /* color: #2c4964; */
+  color: #143033;
   margin-bottom: 10px;
 }
 .resume .resume-item h5 {
