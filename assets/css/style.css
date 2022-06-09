@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 500;
   letter-spacing: 3px;
-  /* text-transform: uppercase; */
+  text-transform: uppercase;
   font-family: 'Shadows Into Light', cursive; 
 }
 #header .logo h1 a, #header .logo h1 a:hover {
@@ -547,7 +547,8 @@ section {
   margin-bottom: 20px;
   /* color: #4b7dab; */
   color: #75937d;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Roboto Flex', sans-serif;
 }
 .resume .resume-item {
   padding: 0 0 20px 20px;
@@ -562,6 +563,7 @@ section {
   /* color: #2c4964; */
   color: #143033;
   margin-bottom: 10px;
+  font-family: 'Bebas Neue', cursive;
 }
 .resume .resume-item h5 {
   font-size: 16px;
@@ -570,7 +572,8 @@ section {
   display: inline-block;
   font-weight: 400;
   margin-bottom: 10px;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Roboto Flex', sans-serif;
 }
 .resume .resume-item ul {
   padding-left: 20px;
