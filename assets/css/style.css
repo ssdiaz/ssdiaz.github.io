@@ -548,7 +548,7 @@ section {
   /* color: #4b7dab; */
   color: #75937d;
   /* font-family: "Poppins", sans-serif; */
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
 }
 .resume .resume-item {
   padding: 0 0 20px 20px;
@@ -563,7 +563,7 @@ section {
   /* color: #2c4964; */
   color: #143033;
   margin-bottom: 10px;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Questrial', sans-serif;
 }
 .resume .resume-item h5 {
   font-size: 16px;
