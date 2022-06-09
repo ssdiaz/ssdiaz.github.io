@@ -1037,9 +1037,9 @@ section {
   text-align: center;
   font-size: 13px;
 }
-#foot a {
+#footer a {
   color: #041c31;
 }
-#foot a:hover {
+#footer a:hover {
   color: #b3c8ac;
 }
