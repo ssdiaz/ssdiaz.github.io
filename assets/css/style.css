@@ -33,7 +33,8 @@ a {
 }
 
 a:hover {
-  color: #dd5a92;
+  /* color: #dd5a92; */
+  color: #f19cbd;
   text-decoration: none;
 }
 
@@ -1031,7 +1032,8 @@ section {
   border-radius: 50px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #dd5a92;
+  /* background: #dd5a92; */
+  background: #e54f72;
 }
 @-webkit-keyframes animate-loading {
   0% {
