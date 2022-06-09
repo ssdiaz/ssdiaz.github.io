@@ -72,6 +72,7 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.12);
 }
 #header .logo h1 {
+  color: #75937d;
   font-size: 26px;
   margin: 0;
   padding: 6px 0;
