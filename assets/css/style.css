@@ -99,7 +99,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .logo h1 a, #header .logo h1 a:hover {
   /* color: #2c4964; */
-  color: #3d5c52;
+  /* color: #3d5c52; */
+  color: #e54f72;
   text-decoration: none;
 }
 #header .logo img {
