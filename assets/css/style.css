@@ -848,7 +848,7 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
-.testimonials .testimonials-carousel, .testimonials .testimonials-slider {
+/* .testimonials .testimonials-carousel, .testimonials .testimonials-slider {
   overflow: hidden;
 }
 .testimonials .testimonial-item {
@@ -919,7 +919,7 @@ section {
   .testimonials {
     margin: 30px 10px;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Contact
