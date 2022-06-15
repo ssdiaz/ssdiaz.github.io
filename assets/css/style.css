@@ -576,7 +576,8 @@ section {
 }
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4ebf3;
+  /* background: #e4ebf3; */
+  background: #e4f3ee;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 400;
